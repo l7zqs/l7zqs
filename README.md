@@ -15,10 +15,10 @@ const thai = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        speaker: "TASIN",
+                        mentor: "TASIN"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the challenge focused on my study"
 }
 ```
 
