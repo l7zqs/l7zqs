@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm TASIN! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 [![Twitter: TASIN](https://img.shields.io/twitter/follow/tasin_x0x?style=social)](https://twitter.com/tasin_x0x)
