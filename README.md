@@ -34,56 +34,43 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 - 👯 I'm looking to collaborate on interesting projects using PHP & Node.js
 
 
-🛠️ Core Tech Stack
+## 🛠️ Core Tech Stack
 
-🌐 Languages
+## 🌐 Languages & Web
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php&theme=dark" alt="Languages and Web Technologies" />
   </a>
-</p>⚛️ Frontend
+</p>
+## ⚛️ Frontend
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend Stack" />
   </a>
-</p>⚙️ Backend & APIs
+</p>
+## ⚙️ Backend & APIs
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Backend and API Stack" />
   </a>
-</p>🗄️ Databases
+</p>
+## 🗄️ Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" alt="Database Stack" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" alt="Database Stack" />
   </a>
-</p>🔧 Tools & Design
+</p>
+## 🔧 Tools & Design
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Tools & Design" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development Tools and Design" />
   </a>
-</p>---
-
-## 🧠 Computer Science
-
-I'm also interested in the fundamentals behind software development:
-
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Database Systems
-- API Architecture
-- Problem Solving
-- Software Engineering
-- System Design
-
----
-
-
+</p>
 
 📊 GitHub Activity & Top Languages
 
@@ -92,36 +79,11 @@ I'm also interested in the fundamentals behind software development:
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=l7zqs&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>---
 
-📌 Featured Projects
-
-I'm continuously building and improving projects while learning new technologies.
-
-«Check my repositories below to see what I'm currently working on.»
-
----
-
 📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/l7zqs">
     <img src="https://img.shields.io/badge/GitHub-l7zqs-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-</p>---
-
-💭 A Little About My Journey
-
-I started programming because I wanted to understand how things work behind the screen.
-
-Now I'm exploring everything from frontend interfaces to backend systems, databases, APIs, and computer science fundamentals.
-
-I'm still learning, still experimenting, and still building.
-
-One project. One problem. One step at a time. 🚀
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p><p align="center">
-  <i>Keep learning. Keep building. Keep shipping.</i>
 </p>
+
