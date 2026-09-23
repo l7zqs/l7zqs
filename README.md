@@ -1,27 +1,54 @@
-<h2> Hi, I'm TASIN! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## Building in public
 
+<div align="center">
 
-[![Twitter: TASIN](https://img.shields.io/twitter/follow/tasin_x0x?style=social)](https://twitter.com/tasin_x0x)
-[![GitHub TASIN](https://img.shields.io/github/followers/l7zqs?label=follow&style=social)](https://github.com/l7zqs)
+# Mahmudul Hasan
 
+> Technical founder
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=l7zqs&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170131360%3Fu%3D101ac2563106540aead4242680fa001cfdb57039%26v%3D4" alt="l7zqs hero visual" />
+</p>
 
-```javascript
-const imti = {
-  pronouns: "He" | "him",
-  code: [Javascript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "TASIN",
-                        mentor: "TASIN"
-                      },
- challenge: "I am doing the challenge focused on my study"
-}
-```
+</div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## The point of view
 
----
+> ðŸ‘¾
+while(!(success = try()))
+
+- ðŸ‘¥ **5** followers Â· **1** following
+
+*Small, useful work over vague claims.*
+
+## What Iâ€™m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=l7zqs&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170131360%3Fu%3D101ac2563106540aead4242680fa001cfdb57039%26v%3D4" alt="l7zqs highlights visual" />
+</p>
+
+<p><b>Mahmudul Hasan</b> is shipping 10 public projects with 9 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/l7zqs/Advanced-Mail-Spoof-System-v2.1.0">Advanced-Mail-Spoof-System-v2.1.0</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript Â· 2 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/l7zqs/Ip-track">Ip-track</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python Â· 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/l7zqs/Spoof_call">Spoof_call</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML Â· 1 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>10</b><br/><sub>repos</sub></td><td align="center"><b>9</b><br/><sub>stars</sub></td><td align="center"><b>22</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=l7zqs&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170131360%3Fu%3D101ac2563106540aead4242680fa001cfdb57039%26v%3D4" alt="l7zqs social visual" />
+</p>
+
+<a href="https://github.com/l7zqs">GitHub</a>
+
+<p align="center"><sub>Mahmudul Hasan Â· Founder profile generated with <a href="#">GitSkins</a></sub></p>
