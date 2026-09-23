@@ -22,44 +22,17 @@
   <a href="https://github.com/l7zqs">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=58A6FF&background=0D111700&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Backend+Developer;Python+%26+TypeScript+Developer;Always+Learning+%26+Building" alt="Typing Skills" />
   </a>
-</p>I'm Mahmudul Hasan, a Computer Science & Engineering student at Daffodil International University and a programmer passionate about building useful software.
+</p>
 
-I enjoy turning ideas into real applications, exploring backend systems, working with databases and APIs, and continuously improving my problem-solving skills.
+## 🚀 About Me
 
-Currently, I'm focused on growing as a Full-Stack Developer while strengthening my foundations in Data Structures, Algorithms, software engineering, and system design.
-
----
-
-👨‍💻 About Me
+I'm a passionate full-stack developer with a keen interest in open-source projects. I love exploring new technologies and contributing to innovative solutions.
 
 - 🎓 B.Sc. in Computer Science & Engineering at Daffodil International University
-- 💻 Full-Stack & Backend Development
-- 🐍 Python, JavaScript & TypeScript
-- ⚛️ React for modern frontend development
-- 🟢 Node.js for backend development
-- 🗄️ PostgreSQL & MongoDB
-- 🔌 REST APIs & backend architecture
-- 🧠 Data Structures & Problem Solving
-- 🎨 UI/UX & Figma
-- 🚀 Learning, building, and experimenting with new technologies
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning Node.js, React.js, Next.js and Electron.js
+- 👯 I'm looking to collaborate on interesting projects using PHP & Node.js
 
----
-
-🚀 What I'm Building
-
-I like working on projects that combine clean interfaces, reliable backend systems, APIs, and databases.
-
-Some areas I'm currently exploring:
-
-- 🌐 Full-Stack Web Applications
-- ⚙️ Backend & REST API Development
-- 🗄️ PostgreSQL & MongoDB Applications
-- 🔐 Authentication & API Security
-- 🧩 Data Structures & Algorithms
-- 🎨 Modern UI/UX
-- ☁️ Deployment & Production Applications
-
----
 
 🛠️ Core Tech Stack
 
@@ -95,7 +68,7 @@ Some areas I'm currently exploring:
   </a>
 </p>---
 
-🧠 Computer Science
+## 🧠 Computer Science
 
 I'm also interested in the fundamentals behind software development:
 
@@ -110,22 +83,7 @@ I'm also interested in the fundamentals behind software development:
 
 ---
 
-🎓 Education
 
-Daffodil International University
-B.Sc. in Computer Science & Engineering
-📍 Dhaka, Bangladesh
-"2026 — Present"
-
-GOVT. K.M.H. College, Jhenaidah
-Higher Secondary Certificate — Science
-"2023 — 2024"
-
-EMUSS High School
-Secondary School Certificate — Science
-"2021 — 2022"
-
----
 
 📊 GitHub Activity & Top Languages
 
