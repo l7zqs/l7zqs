@@ -7,7 +7,16 @@ Hi, I'm Mahmudul Hasan 👋
     <img src="https://img.shields.io/github/followers/l7zqs?style=flat&label=Followers" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=l7zqs&base=15627" alt="Profile Views">
   </a>
-</p><p align="left">
+</p>
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/mahmudul-hasan-678b9b439"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:mahmudulhasan15035@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+<p align="left">
   <a href="https://github.com/l7zqs">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=58A6FF&background=0D111700&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Backend+Developer;Python+%26+TypeScript+Developer;Always+Learning+%26+Building" alt="Typing Skills" />
   </a>
