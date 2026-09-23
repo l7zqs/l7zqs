@@ -1,4 +1,6 @@
-Hi, I'm Mahmudul Hasan 👋
+<a href="https://mahmuduldiu.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Mahmudul%20Hasan&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Programmer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20CSE%20Student&descAlignY=54&descSize=16" alt="Mahmudul Hasan — Programmer, Full-Stack Developer and CSE Student" />
+</a>
 
 <p align="left">
   <a href="https://github.com/l7zqs">
