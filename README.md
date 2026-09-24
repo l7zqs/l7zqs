@@ -37,7 +37,7 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 ## 🛠️ Core Tech Stack
 
 ## 🌐 Languages & Web
-
+<p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php&theme=dark" alt="Languages and Web Technologies" />
@@ -66,10 +66,11 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 </p>
 ## 🔧 Tools & Design
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development Tools and Design" />
   </a>
+</p>
 </p>
 
 📊 GitHub Activity & Top Languages
