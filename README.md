@@ -75,14 +75,14 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ## 📊 GitHub Activity & Top Languages
 
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=l7zqs&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=l7zqs&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/l7zqs">
     <img src="https://img.shields.io/badge/GitHub-l7zqs-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
