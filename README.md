@@ -43,21 +43,21 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php&theme=dark" alt="Languages and Web Technologies" />
   </a>
 </p>
-## ⚛️ Frontend
+**⚛️ Frontend**
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend Stack" />
   </a>
 </p>
-## ⚙️ Backend & APIs
+**⚙️ Backend & APIs**
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Backend and API Stack" />
   </a>
 </p>
-## 🗄️ Databases
+**🗄️ Databases**
 
 <p align="left">
   <a href="https://skillicons.dev">
