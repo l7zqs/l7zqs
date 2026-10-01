@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/stars/l7zqs?style=flat&color=blue&logo=github&label=Total%20Stars%20Count" alt="Total Stars">
     <span> </span>
     <img src="https://img.shields.io/github/followers/l7zqs?style=flat&label=Followers" alt="GitHub Followers">
-    <img src="https://komarev.com/ghpvc/?username=l7zqs&base=15627" alt="Profile Views">
+    
   </a>
 </p>
 <div align='center'>
